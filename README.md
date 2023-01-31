@@ -1,5 +1,5 @@
 # gym-management-system
-Simple Gym Management System made with java OOP method as backend and SWING GUI for backend.
+Simple Gym Management System made with java OOP method as backend and SWING GUI for frontend.
 
 ## To Run this project
 - Open XAMPP Control Panel v3.3.0
